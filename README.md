@@ -2,6 +2,8 @@
 
 This repo demonstrates a TypeScript type error when using `useSortable` from `@vueuse/integrations/useSortable`.
 
+[![status][workflow-img]][workflow-url]
+
 ## Steps
 
 ```sh
@@ -27,3 +29,6 @@ vue: 3.5.27
 sortablejs: 1.15.6
 typescript: 5.9.3
 ```
+
+[workflow-img]: https://img.shields.io/github/actions/workflow/status/VChet/vueuse-usesortable-repro/.github/workflows/lint.yaml
+[workflow-url]: https://github.com/VChet/vueuse-usesortable-repro/actions/workflows/lint.yaml
