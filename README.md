@@ -22,12 +22,12 @@ src/App.vue:15:1 - error TS2769: No overload matches this call.
 ## Versions
 
 ```md
-node: v24.13.0
+node: v24.19.0
 
-vue: 3.5.32
-@vueuse/core & @vueuse/integrations: 14.2.1
+vue: 3.5.41
+@vueuse/core & @vueuse/integrations: 14.4.0
 sortablejs: 1.15.7
-typescript: 6.0.2
+typescript: 6.0.3
 ```
 
 [workflow-img]: https://img.shields.io/github/actions/workflow/status/VChet/vueuse-usesortable-repro/.github/workflows/lint.yaml
